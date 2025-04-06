@@ -1,0 +1,13 @@
+name = "Stay Clear"
+filename = "Stay Clear [1.20].zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4bfcaf7009ee9251c0608d2a6f62e58cfcc10f55"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6305549
+project-id = 1220555

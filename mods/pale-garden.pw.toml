@@ -1,0 +1,13 @@
+name = "Pale Garden and Creaking"
+filename = "palegarden-1.0.7-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "458ed325382326962e19db45f89586f2082b719b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5948302
+project-id = 1111659

@@ -1,0 +1,13 @@
+name = "BMC Pale Garden \"Datafixer\""
+filename = "bmcpalegardenpatcher-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c012245c2f944e8419f94c7b3b3ebaae267d810"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5898343
+project-id = 869750

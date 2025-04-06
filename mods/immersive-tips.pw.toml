@@ -1,0 +1,13 @@
+name = "Immersive Tips"
+filename = "immersivetips-forge-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0dd1071c9cdb0dcdd494370b365540922026b721"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6328185
+project-id = 1172669

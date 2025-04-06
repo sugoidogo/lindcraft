@@ -1,0 +1,13 @@
+name = "Beautiful Enchanted Books"
+filename = "Beautiful Enchanted Books - MC 1.20.X - 5.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ad893924d004dfb042844e8f5effbfcbcb0b48b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6289651
+project-id = 969926

@@ -1,0 +1,13 @@
+name = "Pack Analytics"
+filename = "packanalytics-forge-1.0.3-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e3a32a8583700b70e0dc15e6884a84da1aa86b8f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5860728
+project-id = 1129768

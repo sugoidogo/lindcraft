@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "2f6fb4b59133dab816b704d1f3c69fb802957ba77e5975e931bb4faf1712fd08"
-metafile = true
-
-[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "d86beab1176c367beeed3b8fb8a2a8dfbd8a1db7293f067c01bc38c73020e398"
 
@@ -17467,7 +17462,7 @@ metafile = true
 
 [[files]]
 file = "mods/blossom-blade.pw.toml"
-hash = "cbe2d32482ecdfd549b88bbe05faaaab22b8ed67a457b0b74443dc4aad805e8e"
+hash = "008ea11a8efc4b82551f4e40869c90f29ff2ba2daebf27d725369e340abf4664"
 metafile = true
 
 [[files]]
@@ -18943,11 +18938,6 @@ file = "options.txt"
 hash = "48ea06b6a90a3db36f8d547ba1f63a32f189a9f7c66167df16131dda49422375"
 
 [[files]]
-file = "pastel-shaders.pw.toml"
-hash = "75ab86620198850b00054d0025a6496fdd7b002ae05e9a57dd44d8c894a8a0c0"
-metafile = true
-
-[[files]]
 file = "resourcepacks/(unofficial)-mandalas-gui-dark-mode-mod-compatibility.pw.toml"
 hash = "50ddfeb664a94a31137c2c508cad99860f67940c4955898a86c26b2e1ee4b671"
 metafile = true
@@ -19102,3 +19092,13 @@ metafile = true
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2.txt"
 hash = "ead4b25ee74b39b2673b6321a6d0e6dbbb0ec51f0be07ad4168e0c9c9b81c86a"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "8405be3e2421aaecd19055573a961a3d0d3c23c8ead14e64355fd0973376656b"
+metafile = true
+
+[[files]]
+file = "shaderpacks/pastel-shaders.pw.toml"
+hash = "ac7bf3137584e63280501428247c894af32ed4b62a4beabd318fd9301443cae7"
+metafile = true

@@ -17926,7 +17926,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-cit.pw.toml"
-hash = "f0f999293f442227eab70ab867bf14f1ed5c7f2ffda3d2e984a1e8e4e07daa24"
+hash = "9a254f011b3510090d4433ded0c26e8d71785ce98cdc462535341c6b4b7efc57"
 metafile = true
 
 [[files]]
@@ -18240,6 +18240,11 @@ hash = "3fd27baeb5d907fb9f1c6b54b9b5b3a9682f2d043de6799eee50883f40452784"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "43f3579c8b58086be64f32a90479ff5ba779c4ec602ce04e7ea0c77cc4e0b721"
+metafile = true
+
+[[files]]
 file = "mods/luna.pw.toml"
 hash = "03f7fc5231588cbeaf18e5f1a5cc5f6b5473d5b2b99f2b26ff01adaa7508efb0"
 metafile = true
@@ -18247,6 +18252,11 @@ metafile = true
 [[files]]
 file = "mods/magnum-torch-forge.pw.toml"
 hash = "5f6768157929bccb85b4b561fb4e16c99018ad93ce3f53b945ab9b37307c3665"
+metafile = true
+
+[[files]]
+file = "mods/mc2discord.pw.toml"
+hash = "ae3441ee7bbbbfc220f45f932fae1f0eed0f8c5716aa3c107fc9845fb7ff1954"
 metafile = true
 
 [[files]]
@@ -18576,7 +18586,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-storage-network.pw.toml"
-hash = "c5e258d8453807eeae0e4c65142dd9619dc41c488b9b95d21cab0ad17a6ef62e"
+hash = "981e43edb0f77a7bfdb7543e9a4956841f574ebab9eb8135595dddcdf2c839a0"
 metafile = true
 
 [[files]]

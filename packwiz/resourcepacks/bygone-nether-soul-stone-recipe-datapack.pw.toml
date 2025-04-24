@@ -1,0 +1,13 @@
+name = "Bygone Nether: Soul Stone Recipe | Datapack"
+filename = "Soul_stone_recipe_bygonenether_datapack.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c6d35b3764fc91ccf4834b86e5602c6bf7dbbbe1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5380814
+project-id = 1027082

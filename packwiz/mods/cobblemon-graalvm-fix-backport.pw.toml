@@ -1,0 +1,13 @@
+name = "Cobblemon - GraalVM Fix Backport"
+filename = "Cobblemon-forge-1.5.2+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2336170ad566c2b9fe57c227e28ae5aca7042d64"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5739527
+project-id = 1106015

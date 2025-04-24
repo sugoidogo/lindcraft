@@ -1,0 +1,13 @@
+name = "Mc2Discord"
+filename = "mc2discord-forge-1.20.1-4.2.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Cfbcv7uF/versions/cOgif8SQ/mc2discord-forge-1.20.1-4.2.4.jar"
+hash-format = "sha512"
+hash = "8d16c059003ab59c17eab7adb5dea3e1cd59208fda9d02b8420ad1a0663799b2848f0b15f2696b19b4b425bb38af2313ec8c7a0b23e60f71709ad079a65dd4b7"
+
+[update]
+[update.modrinth]
+mod-id = "Cfbcv7uF"
+version = "cOgif8SQ"

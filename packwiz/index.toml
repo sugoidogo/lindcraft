@@ -818,6 +818,10 @@ file = "config/clientsort.json"
 hash = "debcb0bbb3ac39e522679692eeff6ddce1bff56ad500eb33bc074c29e6e683f6"
 
 [[files]]
+file = "config/cobblemon/main.json"
+hash = "c0b19aadcb13171ee48123d6c692fab04a94b8950672fffe10bb2106925f42ab"
+
+[[files]]
 file = "config/collective.json5"
 hash = "7c3c08045b3a7b145c95f9d187a71350a2d2655cfe156beb3b5cfd09ca074528"
 
@@ -2283,7 +2287,7 @@ hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "bd85ce482073032c8f6a126318c17b9002ba394babd5366b9a840b880306c903"
+hash = "955545bd3f5e7f039ec75e9ca0840fcb33b0258427202d77ab5e921ecbfccda7"
 
 [[files]]
 file = "defaultconfigs/CoroUtil/General.toml"
@@ -3096,6 +3100,10 @@ hash = "83f0a0fc78f6e91b596031809dc10d496055dacae8657f995410bd618f09a69f"
 [[files]]
 file = "defaultconfigs/clientsort.json"
 hash = "debcb0bbb3ac39e522679692eeff6ddce1bff56ad500eb33bc074c29e6e683f6"
+
+[[files]]
+file = "defaultconfigs/cobblemon/main.json"
+hash = "c0b19aadcb13171ee48123d6c692fab04a94b8950672fffe10bb2106925f42ab"
 
 [[files]]
 file = "defaultconfigs/collective.json5"
@@ -17592,8 +17600,8 @@ hash = "e3173aaa4e9078ad7ace2b9ef43ce15ce9919c0b566d8830cea87264f92b3a6a"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon.pw.toml"
-hash = "0621007244610a61d09b567870101acc836b84bf965ff4ce6538d44140bcbffb"
+file = "mods/cobblemon-graalvm-fix-backport.pw.toml"
+hash = "c97061444c00b6f833c5b4b8d5ac1b0aa3dc44b2d61d60622c65387247e6193a"
 metafile = true
 
 [[files]]

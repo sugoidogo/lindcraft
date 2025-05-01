@@ -17456,11 +17456,6 @@ hash = "83ba38ab1e5b583227e9d37b8fea91ac1fcb4e2f67ba86800c5d7aa4024d2993"
 metafile = true
 
 [[files]]
-file = "mods/bisecthosting-server-integration-menu-forge.pw.toml"
-hash = "950f4ae65aa902fc0f05d4976666c133fc7a377d9a8a195e37cae3a98b4f520e"
-metafile = true
-
-[[files]]
 file = "mods/blossom-blade.pw.toml"
 hash = "008ea11a8efc4b82551f4e40869c90f29ff2ba2daebf27d725369e340abf4664"
 metafile = true
@@ -18547,11 +18542,6 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "a2154184549fb259121b58bdd26d4cbee3a3a8c6be542f544f5cb059812e2d1b"
-metafile = true
-
-[[files]]
-file = "mods/server-browser.pw.toml"
-hash = "a5a88d3edf0fc7aeebdcbe0bf2f17b854d94b4f6c4eec7318c2ce9ac9ab65f28"
 metafile = true
 
 [[files]]

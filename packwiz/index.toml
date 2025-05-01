@@ -17655,11 +17655,6 @@ hash = "184ba506f6f584c6eeda993d5cb27a5f555a8ee761c6c41578a185e10ab142f6"
 metafile = true
 
 [[files]]
-file = "mods/crash-assistant.pw.toml"
-hash = "29a18678ccd0e084cac0e47b136f348ba2efa610967cdb83a186be718323220c"
-metafile = true
-
-[[files]]
 file = "mods/crashexploitfixer.pw.toml"
 hash = "ccfd58d3e1d8f0465865fa3fd8df11e489b218032315f2b6f1a7e5161a30ec20"
 metafile = true
@@ -18237,11 +18232,6 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "43f3579c8b58086be64f32a90479ff5ba779c4ec602ce04e7ea0c77cc4e0b721"
-metafile = true
-
-[[files]]
-file = "mods/luna.pw.toml"
-hash = "03f7fc5231588cbeaf18e5f1a5cc5f6b5473d5b2b99f2b26ff01adaa7508efb0"
 metafile = true
 
 [[files]]

@@ -1,12 +1,12 @@
 name = "LindCraft"
 author = "SugoiDogo"
-version = "1.0.6"
+version = "1.0.7"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "823b87c8783099ac451ae55771336ea96b2584fe841eea23f9b7d31754ea67fc"
+hash = "6e6383bc75cebd21ac9774500e42582847656751366faf140b55cdb66acebfe4"
 
 [versions]
 forge = "47.4.0"

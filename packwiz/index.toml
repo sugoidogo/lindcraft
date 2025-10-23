@@ -18270,6 +18270,11 @@ hash = "59c83aff76fec2f34cf0ddd59dc926b6c6a3baaed67764b9511bc77b52427156"
 metafile = true
 
 [[files]]
+file = "mods/modflared.pw.toml"
+hash = "9ba58983086dfaf5090d0f6a02b0f59adc905a11e6173b6da1307fe14b9efe0d"
+metafile = true
+
+[[files]]
 file = "mods/modpack-update-checker.pw.toml"
 hash = "3374742680d440389cad15d2fe03c7c3397adb4acd8e926408aac85745d68ae4"
 metafile = true
